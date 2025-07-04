@@ -1,4 +1,4 @@
-apt -y install## Hi there 👋
+ddos apt -y install## Hi there 👋
 
 <!--
 **heriekoprasetyo7/heriekoprasetyo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
